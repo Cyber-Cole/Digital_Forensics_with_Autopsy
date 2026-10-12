@@ -22,34 +22,34 @@ Launch Autopsy: <br/>
 <br />
 <br />
 Select "New Case":  <br/>
-<img src="https://imgur.com/a/8nN5Bzo" height="90%" width="90%" alt="Create New Case"/>
+<img src="https://i.imgur.com/CSaW9jF.png" height="90%" width="90%" alt="Create New Case"/>
 <br />
 <br />
 Enter the Case Information: <br/>
-<img src="https://imgur.com/lcbUTsd" height="90%" width="90%" alt="Case Name and Directory"/>
+<img src="https://i.imgur.com/HK4Rnvn.png" height="90%" width="90%" alt="Case Name and Directory"/>
 <br />
 <br />
-<img src="https://i.imgur.com/R15E2c3.png" height="90%" width="90%" alt="Case Number"/>
+<img src="https://i.imgur.com/pggay9I.png" height="90%" width="90%" alt="Case Number"/>
 <br />
 <br />
 Add a Data Source (Select Host System):  <br/>
-<img src="https://i.imgur.com/GcEeoHs.png" height="90%" width="90%" alt="Select Host"/>
+<img src="https://i.imgur.com/wMr266r.png" height="90%" width="90%" alt="Select Host"/>
 <br />
 <br />
 Add a Data Source (Select Data Source Type):  <br/>
-<img src="https://i.imgur.com/4mkHuJ6.png" height="90%" width="90%" alt="Data Source Type"/>
+<img src="https://i.imgur.com/8bsv39x.png" height="90%" width="90%" alt="Data Source Type"/>
 <br />
 <br />
 Add a Data Source (Select Data Source Path):  <br/>
-<img src="https://i.imgur.com/UiPEcWP.png" height="90%" width="90%" alt="Data Source Path"/>
+<img src="https://i.imgur.com/a57PwWP.png" height="90%" width="90%" alt="Data Source Path"/>
 <br />
 <br />
 Add a Data Source (Configure Ingest, Use Default Settings):  <br/>
-<img src="https://i.imgur.com/RcNRe38.png" height="90%" width="90%" alt="Configure Ingest"/>
+<img src="https://i.imgur.com/jYuEmwG.png" height="90%" width="90%" alt="Configure Ingest"/>
 <br />
 <br />
 Finish Adding Data Source:  <br/>
-<img src="https://i.imgur.com/uEF8Xzh.png" height="90%" width="90%" alt="Finish Adding Data Source"/>
+<img src="https://i.imgur.com/W1oV81M.png" height="90%" width="90%" alt="Finish Adding Data Source"/>
 <br />
 <br />
 Identify Potential Evidence:  <br/>
