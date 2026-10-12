@@ -22,11 +22,11 @@ Launch Autopsy: <br/>
 <br />
 <br />
 Select "New Case":  <br/>
-<img src="https://i.imgur.com/535WW0q.png" height="90%" width="90%" alt="Create New Case"/>
+<img src="https://imgur.com/a/8nN5Bzo" height="90%" width="90%" alt="Create New Case"/>
 <br />
 <br />
 Enter the Case Information: <br/>
-<img src="https://i.imgur.com/I5QQIE6.png" height="90%" width="90%" alt="Case Name and Directory"/>
+<img src="https://imgur.com/lcbUTsd" height="90%" width="90%" alt="Case Name and Directory"/>
 <br />
 <br />
 <img src="https://i.imgur.com/R15E2c3.png" height="90%" width="90%" alt="Case Number"/>
