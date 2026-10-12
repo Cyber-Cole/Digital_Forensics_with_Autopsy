@@ -58,7 +58,7 @@ Identify Potential Evidence:  <br/>
   a.	To uncover evidence, I initiated a search on John Smith’s computer hard drive using Autopsy. Upon expanding the directory, I promptly identified numerous carved and deleted files of interest. Notably, these files contained instructions on untraceable Bitcoin transactions and Crypto laundering techniques. Additionally, deleted files labeled “Business Strategy” and “Drilling Methodology” hinted at potential evidential significance.
 </p>
 <p align="center">
-<img src="https://i.imgur.com/24fC5bA.png" height="90%" width="90%" alt="Directory Overview"/>
+<img src="https://i.imgur.com/gTnmlDK.png" height="90%" width="90%" alt="Directory Overview"/>
 <br />
 <br />
 </p>
@@ -66,22 +66,22 @@ Identify Potential Evidence:  <br/>
   b.	I extended my examination of John Smith’s hard drive by filtering results for PDF files. Despite being deleted, I successfully located and accessed files titled “Business Strategy,” “Drilling Methodology,” and “Oil Company Data Strategy.” The former two were marked as “CONFIDENTIAL Restricted,” while the latter was labeled “Confidential – No Release.” After extraction, I stored the files in: C:\Users\LabUser\Desktop\Evidence Files\John Smith\Export, and generated hash values for each file using MD5 and SHA-256 hashing algorithms. 
 </p>  
 <p align="center">
-<img src="https://i.imgur.com/6WmyV2F.png" height="90%" width="90%" alt="Business Strategy Extract"/>
+<img src="https://i.imgur.com/k21eF2D.png" height="90%" width="90%" alt="Business Strategy Extract"/>
 <br />
 <br />
-<img src="https://i.imgur.com/3QVgrMr.png" height="90%" width="90%" alt="Business Strategy Hash"/>
+<img src="https://i.imgur.com/a5Qx7Yh.png" height="90%" width="90%" alt="Business Strategy Hash"/>
 <br />
 <br />
-<img src="https://i.imgur.com/ZflqjWc.png" height="90%" width="90%" alt="Drilling Methodology Extract"/>
+<img src="https://i.imgur.com/7gZS4lG.png" height="90%" width="90%" alt="Drilling Methodology Extract"/>
 <br />
 <br />
-<img src="https://i.imgur.com/Dp0GjGi.png" height="90%" width="90%" alt="Drilling Methodology Hash"/>
+<img src="https://i.imgur.com/QvKxF2H.png" height="90%" width="90%" alt="Drilling Methodology Hash"/>
 <br />
 <br />
-<img src="https://i.imgur.com/stOUOZy.png" height="90%" width="90%" alt="Oil Strategy Extract"/>
+<img src="https://i.imgur.com/Zjxe0Jg.png" height="90%" width="90%" alt="Oil Strategy Extract"/>
 <br />
 <br />
-<img src="https://i.imgur.com/UHdCvuu.png" height="90%" width="90%" alt="Oil Strategy Hash"/>
+<img src="https://i.imgur.com/ZNHavRB.png" height="90%" width="90%" alt="Oil Strategy Hash"/>
 <br />
 <br />
 </p>  
@@ -89,28 +89,28 @@ Identify Potential Evidence:  <br/>
   c.	I also extracted all PDF files concerning hiding Bitcoin transactions and crypto laundering, and I hashed these files as well.
 </p>  
 <p align="center">
-<img src="https://i.imgur.com/ylTGk7d.png" height="90%" width="90%" alt="Transaction Mixer Extract"/>
+<img src="https://i.imgur.com/eHV7VKR.png" height="90%" width="90%" alt="Transaction Mixer Extract"/>
 <br />
 <br />
-<img src="https://i.imgur.com/fYZWakJ.png" height="90%" width="90%" alt="Transaction Mixer Hash"/>
+<img src="https://i.imgur.com/8Hmj3wv.png" height="90%" width="90%" alt="Transaction Mixer Hash"/>
 <br />
 <br />
-<img src="https://i.imgur.com/SebpfwO.png" height="90%" width="90%" alt="6 Ways Bitcoin Extract"/>
+<img src="https://i.imgur.com/Y99cywg.png" height="90%" width="90%" alt="6 Ways Bitcoin Extract"/>
 <br />
 <br />
-<img src="https://i.imgur.com/fFuDes0.png" height="90%" width="90%" alt="6 Ways Bitcoin Hash"/>
+<img src="https://i.imgur.com/XW3nhxd.png" height="90%" width="90%" alt="6 Ways Bitcoin Hash"/>
 <br />
 <br />
-<img src="https://i.imgur.com/lorjGGK.png" height="90%" width="90%" alt="Bitcoin Anon Extract"/>
+<img src="https://i.imgur.com/oi6sEy5.png" height="90%" width="90%" alt="Bitcoin Anon Extract"/>
 <br />
 <br />
-<img src="https://i.imgur.com/U4wTNzu.png" height="90%" width="90%" alt="Bitcoin Anon Hash"/>
+<img src="https://i.imgur.com/dTJv3mQ.png" height="90%" width="90%" alt="Bitcoin Anon Hash"/>
 <br />
 <br />
-<img src="https://i.imgur.com/hDWZxDv.png" height="90%" width="90%" alt="Crypto Laundering Extract"/>
+<img src="https://i.imgur.com/o4IcimP.png" height="90%" width="90%" alt="Crypto Laundering Extract"/>
 <br />
 <br />
-<img src="https://i.imgur.com/euBcC5O.png" height="90%" width="90%" alt="Crypto Laundering Hash"/>
+<img src="https://i.imgur.com/FPkTUrE.png" height="90%" width="90%" alt="Crypto Laundering Hash"/>
 <br />
 <br />
 </p>
@@ -118,16 +118,16 @@ Identify Potential Evidence:  <br/>
   d.	Next, I combed through the files in the “Deleted Files” directory, uncovering two additional .jpg files containing diagrams possibly representing proprietary company data. After extraction, I also hashed these files. 
 </p>
 <p align="center">
-<img src="https://i.imgur.com/SifoSrb.png" height="90%" width="90%" alt="Oil Co Conf1 Extract"/>
+<img src="https://i.imgur.com/HcqEYB4.png" height="90%" width="90%" alt="Oil Co Conf1 Extract"/>
 <br />
 <br />
-<img src="https://i.imgur.com/e5cZBof.png" height="90%" width="90%" alt="Oil Co Conf1 Hash"/>
+<img src="https://i.imgur.com/6efAKtZ.png" height="90%" width="90%" alt="Oil Co Conf1 Hash"/>
 <br />
 <br />
-<img src="https://i.imgur.com/qZDabNQ.png" height="90%" width="90%" alt="Oil Co Conf2 Extract"/>
+<img src="https://i.imgur.com/gw6RUb5.png" height="90%" width="90%" alt="Oil Co Conf2 Extract"/>
 <br />
 <br />
-<img src="https://i.imgur.com/7ojDp0b.png" height="90%" width="90%" alt="Oil Co Conf2 Hash"/>
+<img src="https://i.imgur.com/aJaU9GG.png" height="90%" width="90%" alt="Oil Co Conf2 Hash"/>
 <br />
 <br />
 Summary:  <br/>
