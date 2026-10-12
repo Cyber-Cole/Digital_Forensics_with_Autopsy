@@ -18,7 +18,7 @@ I utilized Autopsy, a digital forensics software, to investigate a scenario-base
 
 <p align="center">
 Launch Autopsy: <br/>
-<img src="https://imgur.com/a/3zEASEJ" height="90%" width="90%" alt="Launch Autopsy from Desktop"/>
+<img src="https://i.imgur.com/TFZd2YG.png" height="90%" width="90%" alt="Launch Autopsy from Desktop"/>
 <br />
 <br />
 Select "New Case":  <br/>
